@@ -3,5 +3,6 @@ export function GET() {
     { id: 1, title: "abc", content: "Hello World" },
     { id: 2, title: "def", content: "Hello World" },
     { id: 3, title: "ghi", content: "Hello World" },
+    { id: 4, title: "jkl", content: "Hello World" },
   ]);
 }
